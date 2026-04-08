@@ -1,27 +1,36 @@
-# Sales-Data-Analysis
-Data Analysis of a Sales Dataset using Python, pandas, matplotlib, and seaborn
+# 📊 Sales Data Analysis
 
-Project Overview
+A data-driven analysis of a sales dataset to uncover trends, category performance, and business insights.
 
-This project analyzes a sales dataset to uncover business insights using Python (pandas, matplotlib), Tableau dashboards, and Google Sheets.
-The goal was to explore trends, category performance, and regional contributions to overall sales and profit.
+---
 
-⚙️ Tools & Technologies
+## 🚀 Features
+- Data cleaning and preprocessing
+- Sales trend analysis
+- Category-wise performance analysis
+- Regional insights
+- Data visualization using Python
 
-Python: Data cleaning, exploratory analysis, visualization
+---
 
-Google Sheets: Quick calculations & pivot tables
+## 🛠 Tech Stack
+- Python
+- pandas
+- matplotlib
+- seaborn
+- Tableau (for dashboard)
 
-Tableau: Interactive dashboards for insights
+---
 
-CSV Dataset: Input data file
+## 📁 Project Files
 
-📊 Key Insights
+- `analysis.py` → Python script for data analysis
+- `Sales.csv` → Dataset used
+- `dashboard.png` → Visualization output
+- `README.md` → Project documentation
 
-Total Sales: $2.29M
+---
 
-Total Profit: $286K
+## 📸 Screenshots
 
-Top Category: Technology (highest revenue contributor)
-
-Regions: West & East regions performed strongest
+![Dashboard](dashboard.png)
