@@ -1,7 +1,6 @@
 # 📊 Sales Data Analysis
 
-A data-driven analysis of a sales dataset to uncover trends, category performance, and business insights.
-
+A data-driven analysis of sales data to uncover trends, category performance, and actionable business insights.
 ---
 
 ## 🚀 Features
